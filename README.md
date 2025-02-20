@@ -6,10 +6,10 @@
 关于MOQ, 请参考[MOQ](https://datatracker.ietf.org/doc/draft-ietf-moq-transport/)
 本项目尚不完善，有任何问题可通过`Issues`反馈。
 
-[x] 实现ChatTTS的流式传输的封装
-[x] 实现proxy代理
-[ ] 实现MOQ的server
-[ ] 实现MOQ的client
+- [x] 实现ChatTTS的流式传输的封装
+- [x] 实现proxy代理
+- [ ] 实现MOQ的server
+- [x] 实现MOQ的client
 
 ## Quick Start
 
