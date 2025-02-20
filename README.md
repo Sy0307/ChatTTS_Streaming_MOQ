@@ -16,7 +16,7 @@
 ```bash
 # 安装原项目的依赖 详见https://github.com/2noise/ChatTTS?tab=readme-ov-file#get-started
 
-make # 保证 make 正常运行的依赖
+gcc proxy.c -o proxy # 保证依赖库正常
 
 python api_streaming_flask.py --host 0.0.0.0 --port 8000 # 启动原ChatTTS的server
 
