@@ -9,7 +9,7 @@
 - [x] 实现ChatTTS的流式传输的封装
 - [x] 实现proxy代理
 - [ ] 实现MOQ的server
-- [x] 实现MOQ的client
+- [ ] 实现MOQ的client
 
 ## Quick Start
 
